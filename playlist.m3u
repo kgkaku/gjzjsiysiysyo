@@ -1,202 +1,202 @@
 #EXTM3U
 # Made with love by Mahamudun Nabi Siam
-# Generated at Tue Mar 17 22:27:17 2026
+# Generated at Tue Mar 17 23:27:09 2026
 
 #EXTINF:-1 tvg-id="t sports" tvg-name="t sports" tvg-logo="https://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=8d9edd609ea47b52e16ad9493028dbfe4323589c-44c83f3335b3f36c086e0e5f1d017c13-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=732de530a8cf931e7afb3dd3244f3a5e56eaf58b-1a8053a52a4405d6153e34e8fce56e5f-1773793528-1773789928
 #EXTINF:-1 tvg-id="star sports 1" tvg-name="star sports 1" tvg-logo="https://tvassets.roarzone.info/images/25.png" group-title="sports",star sports 1
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-1/index.m3u8?token=60ed6ecd53fb4482da2bf1b806601d316c50decd-790b1c36b7192b0e6146b4f35666283d-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-1/index.m3u8?token=2b161e521f8bf03a30da2e6b9d648a7527611795-2a80a24c52cbb4bba3f4265d9660b6f0-1773793528-1773789928
 #EXTINF:-1 tvg-id="star sports 2" tvg-name="star sports 2" tvg-logo="https://tvassets.roarzone.info/images/26.png" group-title="sports",star sports 2
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-2/index.m3u8?token=71bb80c696feb349b2ddd31b61609ea3f44634fd-64a2fc4409df0a11dd5d2f4619f9f05d-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-2/index.m3u8?token=65192ec9de2114c97fb9b89e72a5f561e8958038-732f0d48a7c8c4cfb34d087e2b68d54b-1773793528-1773789928
 #EXTINF:-1 tvg-id="gazi tv" tvg-name="gazi tv" tvg-logo="https://tvassets.roarzone.info/images/1.png" group-title="sports",gazi tv
-https://edge2.roarzone.info:8447/roarzone/edge2/gazi/index.m3u8?token=fc6dc03b7942976ffe8237c8a2211c7f5761dba6-8ce8c3e383615647e44e00c6c9f4dbc1-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/gazi/index.m3u8?token=27aa63b6a59b4e89cbd0a7c9e6571f13c3524020-5f7f7896b2b188bef0a31b7df8dfdd31-1773793528-1773789928
 #EXTINF:-1 tvg-id="ptv spotrs" tvg-name="ptv spotrs" tvg-logo="https://tvassets.roarzone.info/images/73.png" group-title="sports",ptv spotrs
-https://edge2.roarzone.info:8447/roarzone/edge2/ptv-sports/index.m3u8?token=eb4ed9c326f117cb91b7cb9d7f82779889fdfd54-6690d8b63cc81c81e43f26c5c1c9ea28-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/ptv-sports/index.m3u8?token=f2a863bf80d1c6d9d8bb38adf57f4c5924f27cd0-6a70c4c619805c8cd51c34a98a17afb0-1773793528-1773789928
 #EXTINF:-1 tvg-id="asports" tvg-name="asports" tvg-logo="https://tvassets.roarzone.info/images/add-sports-1.png" group-title="sports",asports
-https://edge2.roarzone.info:8447/roarzone/edge2/a-sports/index.m3u8?token=286248a0e8dc4c4ad3c71e7f72e4162b0c112cef-8f1d00ed2e73cd55eb993525c1358632-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/a-sports/index.m3u8?token=00b7684218778e04e0ac6c781fa04aba00df2232-620745053f689a54a5784b31e7f4ca30-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony ten 1" tvg-name="sony ten 1" tvg-logo="https://tvassets.roarzone.info/images/20.png" group-title="sports",sony ten 1
-https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=cc48401963db06eda790c6b2be38ddc6518d8ac4-218b45a60e54aa90aef869a9c97d3de7-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-1-hd/index.m3u8?token=b657955713b4e1746ac96e4220f210cea045be15-c35a4fc2862091ca07960678f48492cb-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony ten 2" tvg-name="sony ten 2" tvg-logo="https://tvassets.roarzone.info/images/21.png" group-title="sports",sony ten 2
-https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=f49149eaca36026768d4c6020a516deb0df20767-68c8f5a158698ffe37f2193e5d01e6e3-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-2-hd/index.m3u8?token=30eae467dbba558bdbc639568a591e02635be1e1-13a5fa4030ac4dfd82e61ca7c02b1977-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony ten 3" tvg-name="sony ten 3" tvg-logo="https://tvassets.roarzone.info/images/22.png" group-title="sports",sony ten 3
-https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=feccec66db42f2da29d1f0dcf4b276411eddbba7-dd8bdcc196b99221fe957d2537ff4615-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-3-hd/index.m3u8?token=6da00f9a46944559262fa18885f5a81f9d8a145e-5bb20041311d06f7a3c6e076f530df92-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony six" tvg-name="sony six" tvg-logo="https://tvassets.roarzone.info/images/24.png" group-title="sports",sony six
-https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=a04d9ef4c99fd719b84dc1b805a9ea4b6772446c-7d23dbb82988a8b7f086bf98bcbefa5f-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/sony-sports-5-hd/index.m3u8?token=aeb58234009c46c7098931f80e153642297b4957-3302cefbc4319f5f1795ecd98b25c0ba-1773793528-1773789928
 #EXTINF:-1 tvg-id="star sports select 1" tvg-name="star sports select 1" tvg-logo="https://tvassets.roarzone.info/images/27.png" group-title="sports",star sports select 1
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-1/index.m3u8?token=bbe00cb403aa12e905e55094c01025a68b7991ca-a16f8a3510f8dacbabae25bef0a7fc29-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-1/index.m3u8?token=46ea9a424d461777c3a1d35e479be1c01388091f-1bcde652fd8cb7ffb27734e318b5ff67-1773793528-1773789928
 #EXTINF:-1 tvg-id="star sports select 2" tvg-name="star sports select 2" tvg-logo="https://tvassets.roarzone.info/images/28.png" group-title="sports",star sports select 2
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-2/index.m3u8?token=f7f4df02054bf63960c44e925e7e6a34fe80692d-827253de76c1c20753f6a30319e986c7-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-select-2/index.m3u8?token=dacfe1a218062d19eabacd0a61d2f411d99c829e-f2ab925e1ba584b2f0972b524aefc747-1773793528-1773789928
 #EXTINF:-1 tvg-id="euro sports" tvg-name="euro sports" tvg-logo="https://tvassets.roarzone.info/images/euro_sports_hd.png" group-title="sports",euro sports
-https://edge2.roarzone.info:8447/roarzone/edge3/euro-sport-hd/index.m3u8?token=de4525edcf4e8595e60678d1b29f42d1fd781dfc-8c3c18f0b715e739112a2036a18048eb-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/euro-sport-hd/index.m3u8?token=3ecc44303b3a3d6b9304bf0b2b84819fbf6e3458-2efc44c0d39cefeb15338f4d32e08376-1773793528-1773789928
 #EXTINF:-1 tvg-id="dubai sports" tvg-name="dubai sports" tvg-logo="https://tvassets.roarzone.info/images/dubai-sports.png" group-title="sports",dubai sports
-https://edge2.roarzone.info:8447/roarzone/bk/dubai-sports/index.m3u8?token=8a2a4f9aafa652441295366bc78814fc27ca71c2-155be3021bb7250ba4751375ed1c653c-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/dubai-sports/index.m3u8?token=66e1828c75aed9f8977bb3cbf7bd0786d0778880-3357b4352283aca9b56828bf711c848b-1773793528-1773789928
 #EXTINF:-1 tvg-id="ten cricket" tvg-name="ten cricket" tvg-logo="https://tvassets.roarzone.info/images/ten_cricket.png" group-title="sports",ten cricket
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-ten-cricket/index.m3u8?token=a772302e5f9fa96ea26291c7103782d5cdba33d4-df5b61a8a88adb70f770fc4abb37e288-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-ten-cricket/index.m3u8?token=4395de3a966df608073e0cc0dbc0e9b096e1461a-8a5dac1df402ebafd1988d8a1867fadc-1773793528-1773789928
 #EXTINF:-1 tvg-id="star gold" tvg-name="star gold" tvg-logo="https://tvassets.roarzone.info/images/75.png" group-title="hindi",star gold
-https://edge2.roarzone.info:8447/roarzone/edge2/star-gold/index.m3u8?token=2fbe7e33bc09df92f7913c4d23409c3203c42e87-6fe1c5e44fecf5c33857fb58491245ba-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/star-gold/index.m3u8?token=5e9d033fbad63bdf48ac6baaba32904d09111ac1-74e0010c14d6138466a65facb1d5abe7-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony tv" tvg-name="sony tv" tvg-logo="https://tvassets.roarzone.info/images/38.png" group-title="hindi",sony tv
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-entertainment-television-hd/index.m3u8?token=e98f4f9839a02e6e5f4266b411af1dfe0514268c-c467650b0fc26c3ea29cb1102bfc4db6-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-entertainment-television-hd/index.m3u8?token=461d0d40769e7d1cc868ce8f59318f48d2a5314f-a9492332cccc893067ef064aebc1470d-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony max" tvg-name="sony max" tvg-logo="https://tvassets.roarzone.info/images/sonymax.png" group-title="hindi",sony max
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8?token=3f03d611d747911a7ba4fa3e4980615486e420f5-4e92bbe1128f19fbe9a305db681c427b-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8?token=086b8f7fb230a2835a18e1183ae9f803bcfb5de7-6c3ec34e9e9a979aef43154a9a4f3b50-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony max hd" tvg-name="sony max hd" tvg-logo="https://tvassets.roarzone.info/images/sonymaxhd.png" group-title="hindi",sony max hd
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-hd/index.m3u8?token=b369ca6f592de8f25f93e64d7658a12d2664bf79-acc0a852a8c50ba07cbca2c24e38d0fb-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-hd/index.m3u8?token=095e2516b6dba470408ef0a1e8f79c7fd20e393e-6be5f4fc9e791c3294fc6b7bc5cc07e7-1773793528-1773789928
 #EXTINF:-1 tvg-id="colors" tvg-name="colors" tvg-logo="https://tvassets.roarzone.info/images/68.png" group-title="hindi",colors
-https://edge2.roarzone.info:8447/roarzone/edge2/colors/index.m3u8?token=e65d122e399e9e28b637d4addd10033773cd6e5e-2b9a47af713cb6e35c86a3a7b2fd1cb3-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/colors/index.m3u8?token=9937db03994d2b1c6211e172017ad7d23433aca0-fb8b2d7f8b37e300b223304c4ee803d8-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony max 2" tvg-name="sony max 2" tvg-logo="https://tvassets.roarzone.info/images/sonymax2.png" group-title="hindi",sony max 2
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8?token=671404b585ddbec7ef29c03ab75e87060162d228-3f30806cfc1395bc7abe852f09a8bb4e-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max-2/index.m3u8?token=726317647af0d78a02b29e114a4aebe3dac4d893-7f7eeaf8d439c52c2d90f68df08145fa-1773793528-1773789928
 #EXTINF:-1 tvg-id="zee tv" tvg-name="zee tv" tvg-logo="https://tvassets.roarzone.info/images/40.png" group-title="hindi",zee tv
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-tv-hd/index.m3u8?token=9ee47d2ed563a00c707ffc2fb6f5b8236cf23916-42a1b3a18e7e2bae7c51ade811bfee6c-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-tv-hd/index.m3u8?token=efb3645d66b813e86921e2bf25387351e863df0d-82b54d8bf9bfbdfaf7583db7abb16469-1773793528-1773789928
 #EXTINF:-1 tvg-id="zee cinema" tvg-name="zee cinema" tvg-logo="https://tvassets.roarzone.info/images/76.png" group-title="hindi",zee cinema
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-cinema-hd/index.m3u8?token=0dfd3be01ffea053477fa1ab77749d6ef6ed6ee8-bbd65d5ed0e5ba839fa933ebef1dea71-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-cinema-hd/index.m3u8?token=f6b3c1b847f33cb81773566733a3865f6bfb022b-0c589bebfd751f17752f07eda980792a-1773793528-1773789928
 #EXTINF:-1 tvg-id="zee bollywood" tvg-name="zee bollywood" tvg-logo="https://tvassets.roarzone.info/images/94.png" group-title="hindi",zee bollywood
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-bollywood/index.m3u8?token=eb402c63ea7066e7895cc2abae94d9bac4871585-35a5eda49f1a9bd4563ca5f99067617c-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-bollywood/index.m3u8?token=d1a771073a22b30c04dd46f9ea377b35480b448b-f20e5be28e46cc719f4661d58dd43d2f-1773793528-1773789928
 #EXTINF:-1 tvg-id="zee action" tvg-name="zee action" tvg-logo="https://tvassets.roarzone.info/images/90.png" group-title="hindi",zee action
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-action/index.m3u8?token=95d774e4474cded53530ff406eae22353b54cee6-9f9336b63d76e92873d0a16de362edcf-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-action/index.m3u8?token=755c88110f5ec3d445fc8ea6c3de12ef4ee4e713-d8b722bfdb67ff44d5aea4e9f22bbc0d-1773793528-1773789928
 #EXTINF:-1 tvg-id="star plus" tvg-name="star plus" tvg-logo="https://tvassets.roarzone.info/images/67.png" group-title="hindi",star plus
-https://edge2.roarzone.info:8447/roarzone/bk/67/index.m3u8?token=22d0f7410072a9f670f1c2fc172e7cfd8ce01784-dde90333933328efad9a88ae8738f7de-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/67/index.m3u8?token=7079c36ed7812f9a4e43703056d40d1278087f68-557eb4232a52eade392444c2ab8035ea-1773793528-1773789928
 #EXTINF:-1 tvg-id="and tv hd" tvg-name="and tv hd" tvg-logo="https://tvassets.roarzone.info/images/74.png" group-title="hindi",and tv hd
-https://edge2.roarzone.info:8447/roarzone/edge3/tv-hd/index.m3u8?token=f1a73c6060ad172458f207b0b4946672e9b958d2-cf690a35d3cce8d2f3ce3ec1936e06f7-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/tv-hd/index.m3u8?token=9b021d02645273530514374e2aa43875292cc86d-b141c1727bee4106e2e85d8ed8767d6b-1773793528-1773789928
 #EXTINF:-1 tvg-id="and pictures" tvg-name="and pictures" tvg-logo="https://tvassets.roarzone.info/images/100.png" group-title="hindi",and pictures
-https://edge2.roarzone.info:8447/roarzone/edge3/pictures-hd/index.m3u8?token=8eec525146f483858c7d781914d3773e3722dfe1-23db5fe6a5f3cf2685f16a0b35ab2984-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/pictures-hd/index.m3u8?token=7629724c6ca66273cf0441fe8a275d175edb73a4-425c8c027362e9056411cc335c4acfa8-1773793528-1773789928
 #EXTINF:-1 tvg-id="hum tv" tvg-name="hum tv" tvg-logo="https://tvassets.roarzone.info/images/humtv.png" group-title="hindi",hum tv
-https://edge2.roarzone.info:8447/roarzone/edge3/hum/index.m3u8?token=5a8946b3aecf6a08271205ad0441624a069fb8ff-14db62668ccefefdf16bd168172609ca-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/hum/index.m3u8?token=e9faf367aa63ee354edabf8e542e031f7a404f32-596f72a2f6429bf5ea52a7a23815f9aa-1773793528-1773789928
 #EXTINF:-1 tvg-id="zee-anmol" tvg-name="zee-anmol" tvg-logo="https://tvassets.roarzone.info/images/zee-anmol.png" group-title="hindi",zee-anmol
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-anmol/index.m3u8?token=f9b4189f358fae587991e61233df3789c8d44d15-300e8b583cda8c2a1a7110f064ad2ca1-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-anmol/index.m3u8?token=37219ccebfe5f61155f9f6fdf60e3fa1bb3df7f3-4349df30f4058ec13d90e23a39ecd1e0-1773793528-1773789928
 #EXTINF:-1 tvg-id="hum masala" tvg-name="hum masala" tvg-logo="https://tvassets.roarzone.info/images/hummasala.png" group-title="hindi",hum masala
-https://edge2.roarzone.info:8447/roarzone/edge3/hum-masala/index.m3u8?token=0bf036662a9adb4a3ca98293b70d7657c8520b66-babbe86c7735336994f3e19d9a62ac9d-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/hum-masala/index.m3u8?token=3061c4901ef6795c3d2b8b6ff7795928a14150da-5471ce9f11e62d304b465f19e630e2da-1773793528-1773789928
 #EXTINF:-1 tvg-id="hum sitarey" tvg-name="hum sitarey" tvg-logo="https://tvassets.roarzone.info/images/humsitarey.png" group-title="hindi",hum sitarey
-https://edge2.roarzone.info:8447/roarzone/edge3/hum-sitaray/index.m3u8?token=391334136d21576a02936e5f38b15c998d0f8a16-daefa245d0809b7a5dc3556b108393f5-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/hum-sitaray/index.m3u8?token=7a454f9df2a3b28ee3d288b2dc5d70861182395b-c034da17c63c5abc59b0151e9d177826-1773793528-1773789928
 #EXTINF:-1 tvg-id="b4u movies" tvg-name="b4u movies" tvg-logo="https://tvassets.roarzone.info/images/b4umovies.png" group-title="hindi",b4u movies
-https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8?token=51349b5e6deabf9667211809b7c7ef61f510736e-17214dbc0d00637682777cefe305a0b4-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/b4u-movies-apac/index.m3u8?token=d173d5ffb40bb8867543aed5fb65b7ebc2ce9a0a-62e8dfa5f6b53debc2ffd2e14be3a20f-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony sab" tvg-name="sony sab" tvg-logo="https://tvassets.roarzone.info/images/36.png" group-title="hindi",sony sab
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-sab-hd/index.m3u8?token=a3416298efe5bd384027a6713a3bd433f7ee5d96-a5e9916c91b5396e1be60ceff61d097e-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-sab-hd/index.m3u8?token=78ce951b7aa8a5bfe46b935d51796fc8ce5c4b1d-55373bb4cf1440147b6ccb2b50ce604f-1773793528-1773789928
 #EXTINF:-1 tvg-id="discovery hd" tvg-name="discovery hd" tvg-logo="https://tvassets.roarzone.info/images/43.png" group-title="documentary",discovery hd
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=9b6404982e91891d691c7b2b6a8a7cc91e4c1f70-b0815aa30d37e48f4273cb2cbeff9754-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/index.m3u8?token=d17bb234d9d2cd86f400afdcaa18b058da726f19-baacead9033dd52a3542a8ec4ef89d48-1773793528-1773789928
 #EXTINF:-1 tvg-id="discovery science" tvg-name="discovery science" tvg-logo="https://tvassets.roarzone.info/images/discoveryscience.png" group-title="documentary",discovery science
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/index.m3u8?token=c61a2a19e23c8824613b24fb79103a6c1e236fbe-b188505489cfca9386e89f2705192ad9-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-science/index.m3u8?token=4f5debdb65a6bc5e9d6dd5e0e72a6352b575dd61-445516f4ebb2b3014721bfbd6f4769b5-1773793528-1773789928
 #EXTINF:-1 tvg-id="discovery turbo" tvg-name="discovery turbo" tvg-logo="https://tvassets.roarzone.info/images/discoveryturbo.png" group-title="documentary",discovery turbo
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/index.m3u8?token=dcab41a296d2b91be5823ea6cf6664d8ae1c94b2-5dea0e39523ff9b4abde09da32cd2e80-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-turbo/index.m3u8?token=78dc15919573ad317a74625299b6e5aed43b2510-6898badfb952d8b4e38cb4e1f6e1927a-1773793528-1773789928
 #EXTINF:-1 tvg-id="discovery hd investigation" tvg-name="discovery hd investigation" tvg-logo="https://tvassets.roarzone.info/images/discoveryhdInvestigation.png" group-title="documentary",discovery hd investigation
-https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=4833e30a1866bd95b177b564d94f1c3733c53afa-a106081f23311c2b9dca5f9ba8a4f764-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/investigation-discovery-hd/index.m3u8?token=48bb78ed68b47810f68313df86bcf398232f377e-bcc82a6a93d13f7290f379823faa1c4e-1773793528-1773789928
 #EXTINF:-1 tvg-id="cnn" tvg-name="cnn" tvg-logo="https://tvassets.roarzone.info/images/cnn.png" group-title="documentary",cnn
-https://edge2.roarzone.info:8447/roarzone/edge3/cnn/index.m3u8?token=9eb62fff00bf5432c0e8780e2d41e9e545459e2e-dd86a5cc980042e8813b59768e0fd069-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/cnn/index.m3u8?token=6bcd0fc353128262f2da1d6b4b528ef6f6ac7842-87bff20556e4cb916ef5e32d818c5cba-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony bbc earth hd" tvg-name="sony bbc earth hd" tvg-logo="https://tvassets.roarzone.info/images/44.png" group-title="documentary",sony bbc earth hd
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-bbc-earth-hd/index.m3u8?token=f22e43cdb30a002909883aa104c11cfacf0e7421-e35e707bc119f157b5582c61f5fa6206-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-bbc-earth-hd/index.m3u8?token=299dbd255195090be39d710d2b94223b0fa88d70-0506f3baaf58cd43a5bb258a3608c0e2-1773793528-1773789928
 #EXTINF:-1 tvg-id="natgeo" tvg-name="natgeo" tvg-logo="https://tvassets.roarzone.info/images/35.png" group-title="documentary",natgeo
-https://edge2.roarzone.info:8447/roarzone/bk/35/index.m3u8?token=b434547d89cbb3f15ea17b45c063399b8ad27fb1-8470b650113739d4f72dfcd71da4b6e7-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/35/index.m3u8?token=413f00440c0180acefd47fcae182191cd50a94f9-9c886bfafafa9b313561fb7eac349e80-1773793528-1773789928
 #EXTINF:-1 tvg-id="animal planet" tvg-name="animal planet" tvg-logo="https://tvassets.roarzone.info/images/animalplanet.png" group-title="documentary",animal planet
-https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=39bc5e351a7ac92a9a76f8c9b8b701a6cc1d2634-1e8b13a65bb720ad9018441ffd503c37-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/index.m3u8?token=d2d9caa2efdfa5ed603f7833a72d4e9b3bff50eb-572ea5941bae8b3b8eaad746eeaba66f-1773793528-1773789928
 #EXTINF:-1 tvg-id="star jalsha" tvg-name="star jalsha" tvg-logo="https://tvassets.roarzone.info/images/30.png" group-title="inbangla",star jalsha
-https://edge2.roarzone.info:8447/roarzone/edge2/star-jalsha/index.m3u8?token=bc0cd4315f7f49c3ae7fe20a3c0d22f7baa3d951-4752a5cdc39daa9cfe2107190acdbaff-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/star-jalsha/index.m3u8?token=6a50db9bd2ac98203e3673b56bcb003b2f13faae-7465a0960f6746df1932a2474cd00826-1773793528-1773789928
 #EXTINF:-1 tvg-id="star jalsha movies" tvg-name="star jalsha movies" tvg-logo="https://tvassets.roarzone.info/images/31.png" group-title="inbangla",star jalsha movies
-https://edge2.roarzone.info:8447/roarzone/edge2/jalsha-movies/index.m3u8?token=df3b5ffb57385cc821a346a5fab819dcee2e7507-a6ec0e55fb7a65d9f3fefefaf08ce9a8-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/jalsha-movies/index.m3u8?token=33f182f16d13d4f98fa2d988a7864b46bcf69773-94a66a281412348aa23ab8daf278b166-1773793528-1773789928
 #EXTINF:-1 tvg-id="zee bangla" tvg-name="zee bangla" tvg-logo="https://tvassets.roarzone.info/images/34.png" group-title="inbangla",zee bangla
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla/index.m3u8?token=7dc24b0ea267526dce905552c11461638001a21c-63a208a066abaebf8a6cf482ea537be5-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla/index.m3u8?token=fe777a733522d1463dcbec3dc09a2805e47cbe85-4d9b7822be12b790781c01163ccb60ac-1773793528-1773789928
 #EXTINF:-1 tvg-id="zee bangla cinema" tvg-name="zee bangla cinema" tvg-logo="https://tvassets.roarzone.info/images/29.png" group-title="inbangla",zee bangla cinema
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla-cinema/index.m3u8?token=7deef37c1b9e8890c62fbae065b4f2bad888e521-1f8944737b11e4a73ed6127d9a0e3777-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-bangla-cinema/index.m3u8?token=2a85c9c30a18ed4a575a23ffccceeb2abaa21378-06119366eb5b60d52430594f8b6dd3f9-1773793528-1773789928
 #EXTINF:-1 tvg-id="colors bangla" tvg-name="colors bangla" tvg-logo="https://tvassets.roarzone.info/images/66.png" group-title="inbangla",colors bangla
-https://edge2.roarzone.info:8447/roarzone/edge2/colors-bangla/index.m3u8?token=ab7e400949528523fa63d716edde40f82d05e0d9-79401953a01d4cbcb9f1be4a9a7a7dba-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/colors-bangla/index.m3u8?token=c24d787de9a94e52f5aabb642624c08fe782c17f-2489f0082cc9471b77ec009af518e30f-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony aath" tvg-name="sony aath" tvg-logo="https://tvassets.roarzone.info/images/33.png" group-title="inbangla",sony aath
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-aath/index.m3u8?token=6fa6cc7049ae039a65ea246a38bdeea78e9b0e51-c2ed204586824cd8878db11292edb909-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-aath/index.m3u8?token=b2fc334ac6ab34923e2560ea974c6654d5e1b788-882b5de0c3da21e2ecf6753d778aa251-1773793528-1773789928
 #EXTINF:-1 tvg-id="cartoon network hd" tvg-name="cartoon network hd" tvg-logo="https://tvassets.roarzone.info/images/cartoon-network-hd.webp" group-title="kids",cartoon network hd
-https://edge2.roarzone.info:8447/roarzone/edge3/cartoon-network-hd/index.m3u8?token=2fb11792b6a2d811ed9e442aeb08749fb771af6c-7eb8f837074b0576abf98c3b0d5745c2-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/cartoon-network-hd/index.m3u8?token=106a65c58199d7e515d0143f88bdc5272ef67e4f-3dc14a9bd7b10a18afd83c9f0fa10d44-1773793528-1773789928
 #EXTINF:-1 tvg-id="cartoon network" tvg-name="cartoon network" tvg-logo="https://tvassets.roarzone.info/images/cartoon-network.webp" group-title="kids",cartoon network
-https://edge2.roarzone.info:8447/roarzone/edge3/cartoon-network/index.m3u8?token=5207301a106849d9690f8bf4e1425a0ab58432b4-fa53a6f57471044e28a06f225829c6d5-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/cartoon-network/index.m3u8?token=9e647f921d57f963e59f8fc4df84f28bba7c6779-899d43ec1d3608bb298601ec6795d8c2-1773793528-1773789928
 #EXTINF:-1 tvg-id="nick" tvg-name="nick" tvg-logo="https://tvassets.roarzone.info/images/55.png" group-title="kids",nick
-https://edge2.roarzone.info:8447/roarzone/bk/55/index.m3u8?token=91e5c734e856c254a7ed7e3b30c40d744b76c4e8-0c10e44248823c1801aa8114d7ab1013-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/55/index.m3u8?token=5381b0ddaf90188bdaaf52711668c81c860301e0-03285c05af704ed81c6dca265e52000d-1773793528-1773789928
 #EXTINF:-1 tvg-id="pogo" tvg-name="pogo" tvg-logo="https://tvassets.roarzone.info/images/pogo.png" group-title="kids",pogo
-https://edge2.roarzone.info:8447/roarzone/edge3/pogo/index.m3u8?token=2c5007bc5ebbe7e628a71278c5b05fff659a058f-5b38aded764c93eb7c5450f4e779a96e-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/pogo/index.m3u8?token=9d88775af34e415b3858782d488c50f7bb50f5fa-7b5b97fc89ca5f5919e1990a941788ce-1773793528-1773789928
 #EXTINF:-1 tvg-id="discovery kids" tvg-name="discovery kids" tvg-logo="https://tvassets.roarzone.info/images/discoverykids.png" group-title="kids",discovery kids
-https://edge2.roarzone.info:8447/roarzone/edge3/discovery-kids/index.m3u8?token=577b31ad9c3bc35aa7f4c3b7028a5252ea701279-71f4e58ed74abfed56dc78d35dae791d-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/discovery-kids/index.m3u8?token=4bf349a2ea441a393a7761e1022e3dae03109fe4-5524a0575b3e40ba447f984cf0a91f9b-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony yay" tvg-name="sony yay" tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="kids",sony yay
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/index.m3u8?token=2b7eb503d495a273839f5c690f733a729b22a690-d21fe05bffeaba78bf6702bcb3febf42-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/index.m3u8?token=98e82cc8b4823286e959bf803d4ed210d24404f6-28157af647d3b15568ae56d8f33d50ff-1773793528-1773789928
 #EXTINF:-1 tvg-id="star movies" tvg-name="star movies" tvg-logo="https://tvassets.roarzone.info/images/starmovies.png" group-title="english",star movies
-https://edge2.roarzone.info:8447/roarzone/bk/starmovies/index.m3u8?token=6de0924c9d3bd19f7a21828ef0c4d2089968f157-1cd589e196c32b950bb017eb0620534d-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/starmovies/index.m3u8?token=79c74ec6d882bca70646a311ea5626a5bb3284c6-d3d80261bc784b175daab4d423ef79a5-1773793528-1773789928
 #EXTINF:-1 tvg-id="zee cafe hd" tvg-name="zee cafe hd" tvg-logo="https://tvassets.roarzone.info/images/69.png" group-title="english",zee cafe hd
-https://edge2.roarzone.info:8447/roarzone/edge3/zee-cafe/index.m3u8?token=b99577926a0d81cb4a2f08c3c993c3a2bd576c9b-838e8f2da9110f66a6d72a7288739341-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/zee-cafe/index.m3u8?token=9caa0feed2cb500e893a103d2bf65a36503a8cc3-a575d06705e074d828215f974e3c6751-1773793528-1773789928
 #EXTINF:-1 tvg-id="sony pix" tvg-name="sony pix" tvg-logo="https://tvassets.roarzone.info/images/41.png" group-title="english",sony pix
-https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/index.m3u8?token=787db18a8e7d6ecdf14e47c6b2cb629df4c3ea02-adb41d22c4abd34db6c18dd0d6adce9a-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-pix-hd/index.m3u8?token=ceb215ab282173b517d9ba43fb84abebd5f5fda4-7bf4c428b13d51b7de8bee19c376845c-1773793528-1773789928
 #EXTINF:-1 tvg-id="dw news" tvg-name="dw news" tvg-logo="https://tvassets.roarzone.info/images/85.png" group-title="english",dw news
-https://edge2.roarzone.info:8447/roarzone/bk/85/index.m3u8?token=717dccae350bfbde344f6afa06f3bd6f440cd70d-1636d9e1580bdff4740c6c86d64c2897-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/85/index.m3u8?token=47e0af686f20e0977bd7275b1a21b6481abd827e-1713eb56d52abdc72a42f3efb19e59de-1773793528-1773789928
 #EXTINF:-1 tvg-id="al jazeera" tvg-name="al jazeera" tvg-logo="https://tvassets.roarzone.info/images/89.png" group-title="english",al jazeera
-https://edge2.roarzone.info:8447/roarzone/bk/89/index.m3u8?token=1b9e1506222f317399df91afa8ffcea094c6e5e0-8139d1f571e3997926dec7b130f46b10-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/89/index.m3u8?token=5082747367c6c121d44824148aac9b684df34b89-ffc1b87af9b94c2c0ae0a3aaf7bd394b-1773793528-1773789928
 #EXTINF:-1 tvg-id="tlc hd" tvg-name="tlc hd" tvg-logo="https://tvassets.roarzone.info/images/tlc-hd.webp" group-title="english",tlc hd
-https://edge2.roarzone.info:8447/roarzone/edge3/tlc-hd/index.m3u8?token=7e666eaa5768c8d1d3891731fac031c6aa0376f5-c69be77370cf2adc8723810c6c1b7ac0-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/tlc-hd/index.m3u8?token=d41cdad667afd4089eb1ecec22e0430b7572b992-dcd85288a24b4fc23304f68bd8c0f3a6-1773793528-1773789928
 #EXTINF:-1 tvg-id="gaan bangla" tvg-name="gaan bangla" tvg-logo="https://tvassets.roarzone.info/images/58.png" group-title="music",gaan bangla
-https://edge2.roarzone.info:8447/roarzone/bk/58/index.m3u8?token=53fc1b8186f18d281df746e43c606c60d0d641ec-78006b2d3e0db25d29f643a4720ecd5e-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/58/index.m3u8?token=9c69c1e87e82cd110e184fc35f16d88ccd908a32-533022fa90ce07c9eed3a1b6e3b86c60-1773793528-1773789928
 #EXTINF:-1 tvg-id="9xm" tvg-name="9xm" tvg-logo="https://tvassets.roarzone.info/images/48.png" group-title="music",9xm
-https://edge2.roarzone.info:8447/roarzone/bk/48/index.m3u8?token=cf67225f17f4338bb74b0462779e5467dc1644b1-bf7a621e05a5f9e1c5e57438f27b2c78-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/48/index.m3u8?token=b9d532facafedad8a548b6b4c835e9cf33957ba8-7eabca5369c43f91b304678e2f495c32-1773793528-1773789928
 #EXTINF:-1 tvg-id="zing" tvg-name="zing" tvg-logo="https://tvassets.roarzone.info/images/93.png" group-title="music",zing
-https://edge2.roarzone.info:8447/roarzone/edge3/zing/index.m3u8?token=1ba2a23558a88a66fb113290ac2e8577957cc47e-c5f912a6567471116bf21d677de6e8ea-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/zing/index.m3u8?token=cae195e0eefb4081004425ae39a0651da5eb9754-0bc0c5de8debd4d27f1778881c913df3-1773793528-1773789928
 #EXTINF:-1 tvg-id="b4u music" tvg-name="b4u music" tvg-logo="https://tvassets.roarzone.info/images/b4umusic.png" group-title="music",b4u music
-https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8?token=4e05364986bfeef3018b756bdb8152da65e77618-34af0e8a16cff082d7361895fdb59262-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/b4u-music/index.m3u8?token=15848d305a93280009231ee7ea6cba40c1a12af6-d20518415d9c68e48395eecaa0c5524f-1773793528-1773789928
 #EXTINF:-1 tvg-id="jamuna tv" tvg-name="jamuna tv" tvg-logo="https://tvassets.roarzone.info/images/13.png" group-title="bangla",jamuna tv
-https://edge2.roarzone.info:8447/roarzone/edge3/jamuna-tv/index.m3u8?token=9de6b518baee18205eb8f1b30e816da9070aa73e-9f018fe7c2cdaf86e3019ce38e7cc1f0-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/jamuna-tv/index.m3u8?token=bc6424db5f2d9ff09b353db3fadb7b747aad16b8-171ae33f380befad96e433d280ae84be-1773793528-1773789928
 #EXTINF:-1 tvg-id="nagorik tv" tvg-name="nagorik tv" tvg-logo="https://tvassets.roarzone.info/images/59.png" group-title="bangla",nagorik tv
-https://edge2.roarzone.info:8447/roarzone/edge2/nagorik/index.m3u8?token=e07c7ab2178fa8ffe4ad5bb08fada27ecb3d6f8f-bffc68890df8aeaa662c2691cd0af1f0-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/nagorik/index.m3u8?token=c4375d7a1578a409d1fc692c389537ffa2b659c4-69d6ee93a1ad554047e1eeb5bc905257-1773793528-1773789928
 #EXTINF:-1 tvg-id="channel 24" tvg-name="channel 24" tvg-logo="https://tvassets.roarzone.info/images/5.png" group-title="bangla",channel 24
-https://edge2.roarzone.info:8447/roarzone/edge2/channel24/index.m3u8?token=8a9f54d53afb6f985356a43360698dd884b3aed1-4a98b421d3d68ea01f09aa0a86694d6f-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/channel24/index.m3u8?token=d5d0d0022908623072c6f021ccc357c812eb4cb3-fb4390e06e5dcec8f38f7437b9064f50-1773793528-1773789928
 #EXTINF:-1 tvg-id="channel s" tvg-name="channel s" tvg-logo="https://tvassets.roarzone.info/images/channel-s.png" group-title="bangla",channel s
-https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8?token=3af3d4a5e73626ffa7530bf06801076f1b69bec0-9fe2b595c2791e6ad4eef2d8e8fe6a5e-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/channel-s/index.m3u8?token=f1c29ba622caa12003d5e675450d3aeb12e7a237-cb8aab64b55239d37df377aad90cbd0a-1773793528-1773789928
 #EXTINF:-1 tvg-id="somoy tv" tvg-name="somoy tv" tvg-logo="https://tvassets.roarzone.info/images/17.png" group-title="bangla",somoy tv
-https://edge2.roarzone.info:8447/roarzone/edge3/somoy-tv/index.m3u8?token=3bd665a1725fd5bfe7bf49b188a24f9a8018d4b9-d09d95358a3e1677635c3a44c0b5133e-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/somoy-tv/index.m3u8?token=70f7e106195ec6a494cfe529032fe0164577c8f4-564b9e316fd07bfd311ff425335d0a86-1773793528-1773789928
 #EXTINF:-1 tvg-id="ekushy tv" tvg-name="ekushy tv" tvg-logo="https://tvassets.roarzone.info/images/65.png" group-title="bangla",ekushy tv
-https://edge2.roarzone.info:8447/roarzone/bk/65/index.m3u8?token=f2a628e764aa417795f863fa13a908114ecf8c50-773ae1237c7f53893700c32995e0f500-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/65/index.m3u8?token=c82c62f3d7a2ac4ff8057ee7f9d6e9e13736d2c4-df42befcdc89e8d665fd4c51a12a41a6-1773793528-1773789928
 #EXTINF:-1 tvg-id="asian tv" tvg-name="asian tv" tvg-logo="https://tvassets.roarzone.info/images/62.png" group-title="bangla",asian tv
-https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8?token=8ab4a9feb80421d03e4dd1c9438d6fc5c9f2330c-3602bb03c9ea1eb564394baab5a7ced4-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8?token=2a52540f1708607add8d4f0be73e991752cdd4e8-ef9ca7de9f5f75bce705b7673e0c8bb0-1773793528-1773789928
 #EXTINF:-1 tvg-id="atn bangla" tvg-name="atn bangla" tvg-logo="https://tvassets.roarzone.info/images/2.png" group-title="bangla",atn bangla
-https://edge2.roarzone.info:8447/roarzone/bk/2/index.m3u8?token=a2a4ead301d5f7bacda57f00752e32771b021bac-d715e82377f21348f2b0c10aa7f2987a-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/bk/2/index.m3u8?token=7d2cfc1982f1abf2cf43888a7a31e7e8411b3073-41a7d50942d855b8300fd580a63c0500-1773793528-1773789928
 #EXTINF:-1 tvg-id="atn news" tvg-name="atn news" tvg-logo="https://tvassets.roarzone.info/images/49.png" group-title="bangla",atn news
-https://edge2.roarzone.info:8447/roarzone/edge2/atn-news/index.m3u8?token=e61a95ba2f7441b9f3cf019c8f54a36990ae41df-7dda536fd9429a181661252c970ebae5-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/atn-news/index.m3u8?token=b128f23632c58bff97878d5c2b6666023aaa7afe-4001e2ab8aef365a4c43ea9e8c0c2b9d-1773793528-1773789928
 #EXTINF:-1 tvg-id="banglavision tv" tvg-name="banglavision tv" tvg-logo="https://tvassets.roarzone.info/images/3.png" group-title="bangla",banglavision tv
-https://edge2.roarzone.info:8447/roarzone/edge2/banglavision/index.m3u8?token=5fd60fc2cd9a0c24b3fdb759f921d52cc810ae1c-3a7cd0e802236ca9e7f1cb23c79e9baf-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge2/banglavision/index.m3u8?token=fa541cb35df6ca026feed89daeb8c723035319b5-7fcc7cc05520afb3a35b2c3bafbff8b1-1773793528-1773789928
 #EXTINF:-1 tvg-id="global tv" tvg-name="global tv" tvg-logo="https://tvassets.roarzone.info/images/global-tv.png" group-title="bangla",global tv
-https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8?token=9601ef7805e5ff332e5287215038f55583c9235a-7155e673c383d469c0ab1212ad106e9e-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/global-tv/index.m3u8?token=e73913c896a4b896e79fce6847503f9ed177b4b4-ef850ef31ebac76a250b4d973ef09848-1773793528-1773789928
 #EXTINF:-1 tvg-id="ananda tv" tvg-name="ananda tv" tvg-logo="https://tvassets.roarzone.info/images/16.png" group-title="bangla",ananda tv
-https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8?token=7f91fa1714e8affbb91b3a0466daca93f12668e0-a666948a53e607254a313d1f7019803f-1773789936-1773786336
+https://edge2.roarzone.info:8447/roarzone/edge3/ananda-tv/index.m3u8?token=71c3fde697c52204c9822ad90e06de41e4f34e77-3f2fb1b4e3e26f3929b30f4c419446d8-1773793528-1773789928
 #EXTINF:-1 tvg-id="bangla tv" tvg-name="bangla tv" tvg-logo="https://tvassets.roarzone.info/images/19.png" group-title="bangla",bangla tv
-https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8?token=ef33536a7620a54f0722bf0a1dd8d934606b2515-11c9ea209518ff8b755fe6360944b915-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/edge3/bangla-tv/index.m3u8?token=16aa1645ddf32cf7fdc406bccf694b0e82261e58-88cb34bb7260724df19cf56c3b2f3b0f-1773793528-1773789928
 #EXTINF:-1 tvg-id="boishakhi tv" tvg-name="boishakhi tv" tvg-logo="https://tvassets.roarzone.info/images/61.png" group-title="bangla",boishakhi tv
-https://edge2.roarzone.info:8447/roarzone/bk/61/index.m3u8?token=6c3fde9f89fb102867ff26603e2609e896171da8-050324231eed14542b21d8c913fd6352-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/61/index.m3u8?token=1a9f11e6a056d7f368f020c4b87ce0de182da83a-9e1ab81caf20e506e4c91a43bb86b05e-1773793528-1773789928
 #EXTINF:-1 tvg-id="btv" tvg-name="btv" tvg-logo="https://tvassets.roarzone.info/images/53.png" group-title="bangla",btv
-https://edge2.roarzone.info:8447/roarzone/bk/53/index.m3u8?token=cb13eec08eaf90187526144f12a20188017cd1cc-c4dffb84f1660e4da7bc2d45f9a85d8e-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/53/index.m3u8?token=c8efbaaf30b9562397d9be0f0a99a88883cd070f-9b7104e622eb2c47ceaacb83bcd6591d-1773793528-1773789928
 #EXTINF:-1 tvg-id="btv world" tvg-name="btv world" tvg-logo="https://tvassets.roarzone.info/images/84.png" group-title="bangla",btv world
-https://edge2.roarzone.info:8447/roarzone/bk/84/index.m3u8?token=6d1ed859c7456b1459592455fc6f70b7132f4b9c-a51d5efc1bef847c9be2f4745602fc73-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/84/index.m3u8?token=12549e8bfcc7bd47c3210edaa1b6ef7dba60ced7-0c769692bef6261ac28da3ecce0486e7-1773793528-1773789928
 #EXTINF:-1 tvg-id="channel 9" tvg-name="channel 9" tvg-logo="https://tvassets.roarzone.info/images/4.png" group-title="bangla",channel 9
-https://edge2.roarzone.info:8447/roarzone/bk/4/index.m3u8?token=c195c9f431dbd3a632322a45ef025d4ecb945a0b-d77de75d3b04b9fff3b432e964829429-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/4/index.m3u8?token=7aa7b95226ce269d78679bca8c85e809b79bbb83-d462611cdc43578be7759d35f4cf8766-1773793528-1773789928
 #EXTINF:-1 tvg-id="channel i" tvg-name="channel i" tvg-logo="https://tvassets.roarzone.info/images/6.png" group-title="bangla",channel i
-https://edge2.roarzone.info:8447/roarzone/edge3/channel-i/index.m3u8?token=d3be0a32095a1ff0f85e32a409dc66f8a136d394-807e99e3ca86e265a18c3a2e63795601-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/edge3/channel-i/index.m3u8?token=37b5f956969494b6cb90812418a95706fa415649-9e033092d9141cf606cb725d12298007-1773793528-1773789928
 #EXTINF:-1 tvg-id="dbc news" tvg-name="dbc news" tvg-logo="https://tvassets.roarzone.info/images/7.png" group-title="bangla",dbc news
-https://edge2.roarzone.info:8447/roarzone/edge2/dbc/index.m3u8?token=298f36f90c34e618bf396eaa16c2adafdbfd1389-2442838344aab803e7a860fb243310d4-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/edge2/dbc/index.m3u8?token=1fdc92bbb86fe939856d633f3cd6e84ccd58ca84-29c0e8cf6b47739830ec7d95e434d4b5-1773793528-1773789928
 #EXTINF:-1 tvg-id="ekattor tv" tvg-name="ekattor tv" tvg-logo="https://tvassets.roarzone.info/images/11.png" group-title="bangla",ekattor tv
-https://edge2.roarzone.info:8447/roarzone/edge3/ekattor-tv/index.m3u8?token=aee8c37fe03374c74515a7f3dbdcb95361c168f6-ae12b63a2182d3ad55e07464c46fb987-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/edge3/ekattor-tv/index.m3u8?token=3543fcf646791c141ab899e0dadf3f7c7de13bbc-e1378e87426a412202bbdc94b9ff0783-1773793528-1773789928
 #EXTINF:-1 tvg-id="deepto tv" tvg-name="deepto tv" tvg-logo="https://tvassets.roarzone.info/images/8.png" group-title="bangla",deepto tv
-https://edge2.roarzone.info:8447/roarzone/edge2/deepto_tv/index.m3u8?token=e8e64eaea130a1af274e132bd45697d47ee6285b-d1b9034c500f2c3d743f9a62e832757b-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/edge2/deepto_tv/index.m3u8?token=9ab0495d256962fa79a40bf267e9f9667e5ec552-3e95ea479ffe01ccaeeefee3cbd5a9f6-1773793528-1773789928
 #EXTINF:-1 tvg-id="desh tv" tvg-name="desh tv" tvg-logo="https://tvassets.roarzone.info/images/9.png" group-title="bangla",desh tv
-https://edge2.roarzone.info:8447/roarzone/bk/9/index.m3u8?token=5dca384092d4dc9cbadd947a12916919b5fec90b-945b8f1622433ac3baa53d355b736d1b-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/9/index.m3u8?token=9fb19db8631eb16459ad80b517591af5d2f39ded-c003d89124e013d45d5844501c431055-1773793528-1773789928
 #EXTINF:-1 tvg-id="duronto tv" tvg-name="duronto tv" tvg-logo="https://tvassets.roarzone.info/images/10.png" group-title="bangla",duronto tv
-https://edge2.roarzone.info:8447/roarzone/bk/10/index.m3u8?token=02be263fbd18e16203cc75ad80aee84f1ad1153a-46dfafd671c7eae2ad847871bf0cfda9-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/10/index.m3u8?token=6b28857b0c212103aa0c8340b286557a600a9276-50811b2069e1e8cc8147ac090e9142c8-1773793528-1773789928
 #EXTINF:-1 tvg-id="independent tv" tvg-name="independent tv" tvg-logo="https://tvassets.roarzone.info/images/12.png" group-title="bangla",independent tv
-https://edge2.roarzone.info:8447/roarzone/edge3/independent-tv/index.m3u8?token=c2cf7f0676e41fbdc0f2dbf6b1ac994252a7cf6b-baa1061042abaae08b1d6212c0042736-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/edge3/independent-tv/index.m3u8?token=ea6a0bff02546f5ba11c21bd69b5f2f4d774dc77-8fd617d3a569ccec7d8132d927bdfc08-1773793528-1773789928
 #EXTINF:-1 tvg-id="maasranga" tvg-name="maasranga" tvg-logo="https://tvassets.roarzone.info/images/51.png" group-title="bangla",maasranga
-https://edge2.roarzone.info:8447/roarzone/edge2/mashraga/index.m3u8?token=3305e777f852ee37fffeb0d01ae494c7c55ab586-b6795888309f97d8176a32d3c0a4470d-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/edge2/mashraga/index.m3u8?token=e231b72dc662f3e2f6238c563c789da75004d877-be69623a9ac2cb1d927d9ab8585ce745-1773793528-1773789928
 #EXTINF:-1 tvg-id="mohona tv" tvg-name="mohona tv" tvg-logo="https://tvassets.roarzone.info/images/50.png" group-title="bangla",mohona tv
-https://edge2.roarzone.info:8447/roarzone/bk/50/index.m3u8?token=fbd2d669b65215c2efc9e03aab9e50e904ba8ed8-0822e68267c14622090c4e0ee3095e1f-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/50/index.m3u8?token=2b2e126ceb556ddb93f1eeb640abe6a1f2494bea-623813867562ef595f149dc96bc0980d-1773793528-1773789928
 #EXTINF:-1 tvg-id="movie bangla tv" tvg-name="movie bangla tv" tvg-logo="https://tvassets.roarzone.info/images/86.png" group-title="bangla",movie bangla tv
-https://edge2.roarzone.info:8447/roarzone/edge3/movie-bangla/index.m3u8?token=46629d7d64eac349d8529c77c5d18670ffb1c8e0-db9a5fd34df905449b2cb68fc28a7009-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/edge3/movie-bangla/index.m3u8?token=461948642039a4721e23ab49a9c75ee718ba744b-541f2d9e2efd53618a366027840b5e7b-1773793528-1773789928
 #EXTINF:-1 tvg-id="my tv" tvg-name="my tv" tvg-logo="https://tvassets.roarzone.info/images/56.png" group-title="bangla",my tv
-https://edge2.roarzone.info:8447/roarzone/bk/56/index.m3u8?token=293f1be28a407536443913244c81987f6ccd1b0e-abc9ad97b1ace1f2310feb378ec14572-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/56/index.m3u8?token=754d6a42f6d6ec67fa8a0868762685db45b76859-9470c9eb0eb490b1a43834716439d6f9-1773793528-1773789928
 #EXTINF:-1 tvg-id="news24" tvg-name="news24" tvg-logo="https://tvassets.roarzone.info/images/18.png" group-title="bangla",news24
-https://edge2.roarzone.info:8447/roarzone/bk/18/index.m3u8?token=dc91a95ed0abbed36d2f77aff46d1f4ec51de3c7-17b2857b9a61842cf0264f1295aebe83-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/18/index.m3u8?token=e0e7f54ca3794a175a8abd4af63d0f137fa50fda-00fecf6fb2214416663a6537e4d2ceb5-1773793528-1773789928
 #EXTINF:-1 tvg-id="ntv" tvg-name="ntv" tvg-logo="https://tvassets.roarzone.info/images/54.png" group-title="bangla",ntv
-https://edge2.roarzone.info:8447/roarzone/bk/54/index.m3u8?token=7217fa84cb5081229b903ee6f73bb3d6f4233e8f-eb001e36647649c4558b2eecf49532da-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/54/index.m3u8?token=a880eb3fc9ee1c2e61c668246ba06b1e899a26bf-53d499292e9a3c15e1ba8f1159b417ce-1773793528-1773789928
 #EXTINF:-1 tvg-id="rtv" tvg-name="rtv" tvg-logo="https://tvassets.roarzone.info/images/14.png" group-title="bangla",rtv
-https://edge2.roarzone.info:8447/roarzone/bk/14/index.m3u8?token=a3b236f658dbf1c0d37301c94b0cf888051dfb67-05c74cbdcc51961b3224ebb7028b1c91-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/14/index.m3u8?token=b3473f92e13f3571226f87349bfdb5893e900775-3993c49782ee788b1d08fec0d5c3236c-1773793528-1773789928
 #EXTINF:-1 tvg-id="sa tv" tvg-name="sa tv" tvg-logo="https://tvassets.roarzone.info/images/15.png" group-title="bangla",sa tv
-https://edge2.roarzone.info:8447/roarzone/bk/15/index.m3u8?token=04f46e52f6d339303e7af9532ad7ff38f1b6e052-adf5b77656bf6ea9618ef8f89aee69d8-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/15/index.m3u8?token=2305f66f548a139b73ed785510fe5d986e014974-fc1d1d33a51eeaa889fa2dc1f48caf04-1773793528-1773789928
 #EXTINF:-1 tvg-id="sangsad tv" tvg-name="sangsad tv" tvg-logo="https://tvassets.roarzone.info/images/88.png" group-title="bangla",sangsad tv
-https://edge2.roarzone.info:8447/roarzone/bk/88/index.m3u8?token=13a75330527fb355cb12e35a6bac13005f7c3452-08cf37f0edf2f4f82812875cfa2186cf-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/bk/88/index.m3u8?token=45c363e547b64a0081f7313275b4aa91ce16d581-12d0106416bc243efb8bc78aefc82e2d-1773793528-1773789928
 #EXTINF:-1 tvg-id="ekhon" tvg-name="ekhon" tvg-logo="https://tvassets.roarzone.info/images/ekhon-tv.jpg" group-title="bangla",ekhon
-https://edge2.roarzone.info:8447/roarzone/edge3/ekhon-tv/index.m3u8?token=a429fd7e70b47d95caf914d697bd6c8a4f698ac0-897f5eaf1bd1a2e329c21d55544a86b4-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/edge3/ekhon-tv/index.m3u8?token=954bc393c2b22b3aa96bc01e11cba41843dbbe49-1db55f435f36f166ef614a9800b1bb4c-1773793528-1773789928
 #EXTINF:-1 tvg-id="bijoy-tv" tvg-name="bijoy-tv" tvg-logo="https://tvassets.roarzone.info/images/bijoy-tv.jpg" group-title="bangla",bijoy-tv
-https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8?token=e8ca4f314788a69201b3de2bd9174e937a1fd99f-c775955f96f41d62d8b5115cce487fa2-1773789937-1773786337
+https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/index.m3u8?token=f476e0a38fda3d82a63ca20af9248b41ed8ed5a0-ca1091157b335bd681e6f282248c3c0c-1773793528-1773789928
